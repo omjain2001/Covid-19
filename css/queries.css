@@ -1,0 +1,88 @@
+@media only screen and (max-width: 480px){
+    
+    
+}
+
+@media only screen and (max-width:767px){
+    
+    
+}
+
+@media only screen and (max-width:1023px){
+    
+    
+}
+
+@media only screen and (max-width: 1200px){
+    
+    
+    .row{
+        
+        width: 100%;
+        padding: 0 2%;
+       }
+    
+    
+    
+    
+    
+    .heading{
+   
+        
+        font-size: 45px;
+        margin-top: 150px;
+    }
+    
+    .heading-2{
+        
+        left: 20%;
+        top: 35%;
+}
+    
+    .nav li{
+        
+        margin-left: 40px;
+        font-size: 22px;
+    }
+    
+    .pm_img{
+   
+        width: 150px;
+        height: 150px;
+    }
+    
+    .shlok{
+   
+        
+        line-height: 40px;
+        font-size: 25px;
+        right: 15%;
+    }
+    
+    .pm_message{
+   
+        width: 55%;
+        font-size: 22px;
+        line-height: 35px;
+        
+   
+}
+    
+    .quotation2{left: 25%;}
+    
+    .nav{
+        
+        
+    }
+    
+    
+        
+}
+        
+   
+
+
+
+
+    
+}
